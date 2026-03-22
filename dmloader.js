@@ -228,7 +228,7 @@ var EngineLoader = {
     wasmjs_pthread_sha1: "",
     wasmjs_pthread_size: 250000,
     asmjs_sha1: "",
-    asmjs_size: 4000000,
+    asmjs_size: 5349300,
     wasm_instantiate_progress: 0,
 
     stream_wasm: "false" === "true",
